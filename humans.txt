@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sem Milaserdov semmilaserdov@gmail.com
 
 # THANKS
 
